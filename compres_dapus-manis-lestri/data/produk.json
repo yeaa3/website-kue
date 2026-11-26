@@ -1,0 +1,18 @@
+{
+  "kategori": [
+    { "id": "kue-ulang-tahun", "nama": "Kue Ulang Tahun" },
+    { "id": "kue-kering", "nama": "Kue Kering" },
+    { "id": "dessert-table", "nama": "Dessert Table" },
+    { "id": "brownies", "nama": "Brownies & Cake" }
+  ],
+  "produk": [
+    { "id": "dessert-table-paket-a", "nama": "Dessert Table Paket A", "kategori": "dessert-table", "harga": 750000, "deskripsi": "Aneka dessert untuk ±30 tamu: mini cake, puding, cookies.", "gambar": "assets/produk/dessert-table-paket-a.jpg", "emoji": "🧁", "unggulan": true },
+    { "id": "putri-salju-pandan-mede", "nama": "Putri Salju Pandan Mede", "kategori": "kue-kering", "harga": 85000, "deskripsi": "Putri salju pandan dengan kacang mede, toples 500 gr.", "gambar": "assets/produk/putri-salju-pandan-mede.jpg", "emoji": "🍪", "unggulan": true },
+    { "id": "kue-ultah-coklat", "nama": "Kue Ulang Tahun Coklat 20 cm", "kategori": "kue-ulang-tahun", "harga": 235000, "deskripsi": "Sponge coklat lembut, krim coklat, dekorasi sederhana.", "gambar": "", "emoji": "🎂", "unggulan": true },
+    { "id": "kue-ultah-red-velvet", "nama": "Red Velvet 20 cm", "kategori": "kue-ulang-tahun", "harga": 275000, "deskripsi": "Red velvet dengan cream cheese frosting.", "gambar": "", "emoji": "🍰" },
+    { "id": "nastar-premium", "nama": "Nastar Premium", "kategori": "kue-kering", "harga": 95000, "deskripsi": "Nastar isi selai nanas homemade, toples 500 gr.", "gambar": "", "emoji": "🍍" },
+    { "id": "kastengel", "nama": "Kastengel Keju", "kategori": "kue-kering", "harga": 100000, "deskripsi": "Kastengel gurih dengan keju edam, toples 500 gr.", "gambar": "", "emoji": "🧀" },
+    { "id": "brownies-panggang", "nama": "Brownies Panggang", "kategori": "brownies", "harga": 65000, "deskripsi": "Brownies panggang fudgy, loyang 20 cm.", "gambar": "", "emoji": "🍫", "unggulan": true },
+    { "id": "dessert-table-paket-b", "nama": "Dessert Table Paket B", "kategori": "dessert-table", "harga": 1250000, "deskripsi": "Dessert table lengkap untuk ±60 tamu beserta dekorasi.", "gambar": "", "emoji": "🎉" }
+  ]
+}

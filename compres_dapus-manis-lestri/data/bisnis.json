@@ -1,0 +1,24 @@
+{
+  "nama": "Dapur Manis Lestari",
+  "tagline": "Kue manis buatan rumah, dibuat segar untuk momen spesialmu",
+  "whatsapp": "6281234567890",
+  "jamBuka": "Setiap hari, 07.00 – 20.00 WIB",
+  "pembayaran": {
+    "dpPersen": 50,
+    "pelunasan": "Pelunasan paling lambat H-1 sebelum pesanan diambil/diantar",
+    "rekening": [
+      { "bank": "BCA", "noRek": "1234567890", "atasNama": "Dapur Manis Lestari" },
+      { "bank": "BRI", "noRek": "0987654321012", "atasNama": "Dapur Manis Lestari" }
+    ],
+    "ewallet": [
+      { "nama": "DANA", "nomor": "081234567890", "atasNama": "Dapur Manis Lestari" },
+      { "nama": "GoPay", "nomor": "081234567890", "atasNama": "Dapur Manis Lestari" }
+    ],
+    "qris": { "gambar": "assets/qris.png", "atasNama": "Dapur Manis Lestari" }
+  },
+  "sosmed": {
+    "instagram": { "handle": "@dapurmanis_madiun", "url": "https://instagram.com/dapurmanis_madiun" },
+    "facebook": { "handle": "Dapur Manis Lestari", "url": "https://facebook.com/dapurmanislestari" },
+    "tiktok": { "handle": "@dapurmanis_madiun", "url": "https://tiktok.com/@dapurmanis_madiun" }
+  }
+}

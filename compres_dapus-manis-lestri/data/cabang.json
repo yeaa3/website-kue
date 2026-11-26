@@ -1,0 +1,4 @@
+[
+  { "id": "pusat", "nama": "Dapur Manis Lestari – Pusat", "alamat": "Jl. Contoh No. 1, Kota Madiun, Jawa Timur", "jam": "07.00 – 20.00 WIB", "telepon": "6281234567890", "lat": -7.6298, "lng": 111.5239 },
+  { "id": "kartoharjo", "nama": "Dapur Manis Lestari – Kartoharjo", "alamat": "Jl. Contoh No. 2, Kartoharjo, Kota Madiun", "jam": "08.00 – 19.00 WIB", "telepon": "6281234567890", "lat": -7.6410, "lng": 111.5330 }
+]

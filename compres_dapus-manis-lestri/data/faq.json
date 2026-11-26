@@ -1,0 +1,7 @@
+[
+  { "tanya": "Berapa lama waktu pemesanan?", "jawab": "Kue ulang tahun dan dessert table minimal H-3. Kue kering minimal H-2, tergantung stok." },
+  { "tanya": "Bagaimana sistem pembayarannya?", "jawab": "Bisa DP atau lunas 100% lewat QRIS atau transfer. Cash hanya untuk Ambil di Toko dan otomatis lunas." },
+  { "tanya": "Berapa ongkos kirimnya?", "jawab": "Ongkir dihitung otomatis dari jarak garis lurus cabang ke lokasimu. 0–3 km tarif dasar, lalu tambah Rp 3.000 per km. Maksimal radius 15 km." },
+  { "tanya": "Bagaimana jika alamat saya di luar radius 15 km?", "jawab": "Ongkir dikonfirmasi admin lewat WhatsApp. Gunakan tombol Tanya Ongkir Luar Radius ke Admin." },
+  { "tanya": "Apakah bisa request desain khusus?", "jawab": "Bisa. Tulis di kolom catatan atau kirim referensi gambar ke admin via WhatsApp." }
+]
